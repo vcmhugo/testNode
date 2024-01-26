@@ -23,3 +23,5 @@
 `npm install --save-dev babel-cli babel-preset-env jest supertest superagent`
 
 #### 2. Separar el app.js y server.js
+
+>##### Nota Importante [documentación Supertest oficial](https://www.albertgao.xyz/2017/05/24/how-to-test-expressjs-with-jest-and-supertest/ "documentación")
