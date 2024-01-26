@@ -15,3 +15,11 @@
 `$ npm install --save-dev jest`
 
 >## Nota Importante [documentación jest oficial](https://jestjs.io "documentación")
+
+### Como usar test Express.js con Jest y Supertest
+
+#### 1.Install
+
+`npm install --save-dev babel-cli babel-preset-env jest supertest superagent`
+
+#### 2. Separar el app.js y server.js
