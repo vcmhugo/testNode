@@ -14,7 +14,7 @@
 
 `$ npm install --save-dev jest`
 
->## Nota Importante [documentación jest oficial](https://jestjs.io "documentación")
+>##### Nota Importante [documentación jest oficial](https://jestjs.io "documentación")
 
 ### Como usar test Express.js con Jest y Supertest
 
