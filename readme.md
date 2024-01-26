@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://spin.atomicobject.com/wp-content/uploads/jest.png" alt="Ejemplo de imagen centrada">
 </p>
-![](https://img.shields.io/github/stars/pandao/editor.md.svg)
 ## Testing API NODEJS
 ###  Instalación de dependencias
 
