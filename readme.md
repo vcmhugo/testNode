@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://spin.atomicobject.com/wp-content/uploads/jest.png" alt="Ejemplo de imagen centrada">
+  <img src="./img/logo.png" alt="jest">
 </p>
 
 ## Testing API NODEJS
